@@ -1,9 +1,9 @@
 em{
-    color: orange;
+    color: red;
     text-decoration: underline;
 }
 code{
-    color: lime;
+    color: purple;
     text-decoration: underline;
 }
 li > code{
